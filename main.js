@@ -5,7 +5,7 @@ Webcam.set({
     png_quality:100,
 
     constraints:{
-        facingMODE:"environment"
+        facingMode:"environment"
     }
 
 });
